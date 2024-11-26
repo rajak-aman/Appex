@@ -62,12 +62,12 @@
     }
 
     .helpsupport{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         margin-top: 60px;
     }
 
     .RESOURCES{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         margin-top: 60px;
 
     }
@@ -217,7 +217,7 @@
         /* border: 2px solid red; */
         justify-content: center !important;
         align-items: center !important;
-        margin-left: 240px;
+        /* margin-left: 240px; */
         margin-top: 20px;
 
     }
@@ -391,7 +391,7 @@
         /* border: 2px solid red; */
         justify-content: center !important;
         align-items: center !important;
-        margin-left: 350px;
+        /* margin-left: 350px; */
         margin-top: 20px;
 
     }
